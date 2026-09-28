@@ -18,7 +18,7 @@ The dataset is distributed as part of the research resources associated with
 the Media Communications Laboratory (MCL), Korea University.
 
 <p align="center">
-  <img src="https://github.com/espartan0007/DICM_dataset/blob/main/thumbnail.png?raw=true" width="600">
+  <img src="https://github.com/espartan0007/DICM_dataset/blob/main/thumbnail.png?raw=true" width="980">
 </p>
 
 <p align="center">
